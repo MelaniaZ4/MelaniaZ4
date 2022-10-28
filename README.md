@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mel
 - 👀 I’m interested in Software development and learning new coding languages
-- 🌱 I’m currently learning C# and SQL
-- 💞️ I’m looking to collaborate on anything related to C# or Website Development
+- 🌱 I’m currently learning and working with Angular and Ionic
 - 📫 How to reach me: mela.brandes@gmail.com
 
 <!---
