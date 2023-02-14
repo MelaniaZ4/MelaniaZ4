@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mel
-- 👀 I’m interested in Software development and learning new coding languages
-- 🌱 I’m currently learning and working with Angular and Ionic
+- 👀 I’m a Software Developmer
+- 🌱 I’m currently working a lot with Angular and Ionic
 - 📫 How to reach me: mela.brandes@gmail.com
 
 <!---
