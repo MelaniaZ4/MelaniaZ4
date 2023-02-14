@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mel
-- 👀 I’m a Software Developmer
+- 👀 I’m a Software Developer
 - 🌱 I’m currently working a lot with Angular and Ionic
 - 📫 How to reach me: mela.brandes@gmail.com
 
